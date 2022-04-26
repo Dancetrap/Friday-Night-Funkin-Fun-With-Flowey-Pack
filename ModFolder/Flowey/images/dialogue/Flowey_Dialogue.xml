@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flowey Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 120000" x="0" y="0" width="1243" height="1281" frameX="0" frameY="0" frameWidth="1243" frameHeight="1286"/>
+	<SubTexture name="Symbol 120001" x="0" y="0" width="1243" height="1281" frameX="0" frameY="0" frameWidth="1243" frameHeight="1286"/>
+	<SubTexture name="Symbol 120002" x="1243" y="0" width="1194" height="1261" frameX="-1" frameY="-22" frameWidth="1243" frameHeight="1286"/>
+	<SubTexture name="Symbol 120003" x="1243" y="0" width="1194" height="1261" frameX="-1" frameY="-22" frameWidth="1243" frameHeight="1286"/>
+	<SubTexture name="Symbol 120004" x="2437" y="0" width="1130" height="1250" frameX="-5" frameY="-36" frameWidth="1243" frameHeight="1286"/>
+	<SubTexture name="Symbol 120005" x="2437" y="0" width="1130" height="1250" frameX="-5" frameY="-36" frameWidth="1243" frameHeight="1286"/>
+	<SubTexture name="Idiot0000" x="2437" y="0" width="1130" height="1250" frameX="-5" frameY="-36" frameWidth="1243" frameHeight="1286"/>
+	<SubTexture name="Idiot0001" x="2437" y="0" width="1130" height="1250" frameX="-5" frameY="-36" frameWidth="1243" frameHeight="1286"/>
+	<SubTexture name="Symbol 50000" x="3567" y="0" width="998" height="1288" frameX="0" frameY="-65" frameWidth="1010" frameHeight="1361"/>
+	<SubTexture name="Symbol 50001" x="3567" y="0" width="998" height="1288" frameX="0" frameY="-65" frameWidth="1010" frameHeight="1361"/>
+	<SubTexture name="Symbol 50002" x="4565" y="0" width="998" height="1361" frameX="-9" frameY="0" frameWidth="1010" frameHeight="1361"/>
+	<SubTexture name="Symbol 50003" x="4565" y="0" width="998" height="1361" frameX="-9" frameY="0" frameWidth="1010" frameHeight="1361"/>
+	<SubTexture name="Symbol 50004" x="5563" y="0" width="998" height="1318" frameX="-12" frameY="-39" frameWidth="1010" frameHeight="1361"/>
+	<SubTexture name="Symbol 50005" x="5563" y="0" width="998" height="1318" frameX="-12" frameY="-39" frameWidth="1010" frameHeight="1361"/>
+	<SubTexture name="Howdy0000" x="5563" y="0" width="998" height="1318" frameX="-12" frameY="-39" frameWidth="1010" frameHeight="1361"/>
+	<SubTexture name="Howdy0001" x="5563" y="0" width="998" height="1318" frameX="-12" frameY="-39" frameWidth="1010" frameHeight="1361"/>
+	<SubTexture name="Symbol 70000" x="6561" y="0" width="1054" height="1288" frameX="-3" frameY="-50" frameWidth="1057" frameHeight="1338"/>
+	<SubTexture name="Symbol 70001" x="6561" y="0" width="1054" height="1288" frameX="-3" frameY="-50" frameWidth="1057" frameHeight="1338"/>
+	<SubTexture name="Symbol 70002" x="0" y="1361" width="1057" height="1337" frameX="0" frameY="0" frameWidth="1057" frameHeight="1338"/>
+	<SubTexture name="Symbol 70003" x="0" y="1361" width="1057" height="1337" frameX="0" frameY="0" frameWidth="1057" frameHeight="1338"/>
+	<SubTexture name="Symbol 70004" x="1057" y="1361" width="1057" height="1307" frameX="0" frameY="-31" frameWidth="1057" frameHeight="1338"/>
+	<SubTexture name="Symbol 70005" x="1057" y="1361" width="1057" height="1307" frameX="0" frameY="-31" frameWidth="1057" frameHeight="1338"/>
+	<SubTexture name="What0000" x="1057" y="1361" width="1057" height="1307" frameX="0" frameY="-31" frameWidth="1057" frameHeight="1338"/>
+	<SubTexture name="What0001" x="1057" y="1361" width="1057" height="1307" frameX="0" frameY="-31" frameWidth="1057" frameHeight="1338"/>
+	<SubTexture name="Symbol 90000" x="2114" y="1361" width="1056" height="1403" frameX="0" frameY="-86" frameWidth="1252" frameHeight="1489"/>
+	<SubTexture name="Symbol 90001" x="2114" y="1361" width="1056" height="1403" frameX="0" frameY="-86" frameWidth="1252" frameHeight="1489"/>
+	<SubTexture name="Symbol 90002" x="3170" y="1361" width="1056" height="1442" frameX="-72" frameY="-47" frameWidth="1252" frameHeight="1489"/>
+	<SubTexture name="Symbol 90003" x="3170" y="1361" width="1056" height="1442" frameX="-72" frameY="-47" frameWidth="1252" frameHeight="1489"/>
+	<SubTexture name="Symbol 90004" x="4226" y="1361" width="1056" height="1489" frameX="-196" frameY="0" frameWidth="1252" frameHeight="1489"/>
+	<SubTexture name="Symbol 90005" x="4226" y="1361" width="1056" height="1489" frameX="-196" frameY="0" frameWidth="1252" frameHeight="1489"/>
+	<SubTexture name="Symbol 90006" x="5282" y="1361" width="1057" height="1457" frameX="-148" frameY="-32" frameWidth="1252" frameHeight="1489"/>
+	<SubTexture name="Evil0000" x="4226" y="1361" width="1056" height="1489" frameX="-196" frameY="0" frameWidth="1252" frameHeight="1489"/>
+	<SubTexture name="Evil0001" x="4226" y="1361" width="1056" height="1489" frameX="-196" frameY="0" frameWidth="1252" frameHeight="1489"/>
+	<!-- <SubTexture name="Evil0001" x="5282" y="1361" width="1057" height="1457" frameX="-148" frameY="-32" frameWidth="1252" frameHeight="1489"/> -->
+</TextureAtlas>

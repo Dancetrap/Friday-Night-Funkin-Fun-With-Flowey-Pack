@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				260,
+				-235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				203,
+				-263
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				210,
+				-257
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				210,
+				-235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				200,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wink",
+			"indices": [],
+			"name": "winky winky"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				352,
+				-231
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Scared",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flowey-Scared",
+	"position": [
+		20,
+		10
+	],
+	"healthicon": "flowey-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		255,
+		0
+	],
+	"camera_position": [
+		85,
+		540
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

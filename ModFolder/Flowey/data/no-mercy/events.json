@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.4,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				146812.5,
+				[
+					[
+						"Flash Camera",
+						"hud",
+						"4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 80,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "no-mercy"
+	}
+}

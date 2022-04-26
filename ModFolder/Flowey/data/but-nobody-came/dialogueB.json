@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "what",
+			"text": "Grrr!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "what",
+			"text": "Even after all that, you're still alive?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "what",
+			"text": "Geez you must be special",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "talk",
+			"text": "beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "what",
+			"text": "heh",
+			"boxState": "normal",
+			"portrait": "flowey",
+			"speed": 0.05
+		},
+		{
+			"expression": "howdy",
+			"text": "Heh",
+			"boxState": "normal",
+			"portrait": "flowey",
+			"speed": 0.05
+		},
+		{
+			"expression": "howdy",
+			"text": "Hehehehehehe",
+			"boxState": "normal",
+			"portrait": "flowey",
+			"speed": 0.05
+		},
+		{
+			"expression": "idiot",
+			"text": "HEHEHEHEHEHEHEHEHEHEHEHE",
+			"boxState": "normal",
+			"portrait": "flowey",
+			"speed": 0.05
+		},
+		{
+			"expression": "idiot",
+			"text": "HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!",
+			"boxState": "normal",
+			"portrait": "flowey",
+			"speed": 0.05
+		},
+		{
+			"expression": "idiot",
+			"text": "AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!!!!",
+			"boxState": "normal",
+			"portrait": "flowey",
+			"speed": 0.05
+		},
+		{
+			"expression": "idiot",
+			"text": "you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "IDIOT!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "Do you really think this is over?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "Do you think you've WON?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "You have NO idea what I am capable of!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "I will tear you limb from limb only to bring you back.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "over and over and OVER AND OVER!!!!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "AND IF YOU THINK THAT YOU CAN STOP ME?!?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "HEE HEE HEE",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "evil",
+			"text": "You really ARE an idiot",
+			"boxState": "normal",
+			"speed": 0.2,
+			"portrait": "flowey"
+		}
+	]
+}

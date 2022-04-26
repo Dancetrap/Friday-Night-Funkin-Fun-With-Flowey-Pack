@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="friendliness-pellets.png">
+<SubTexture name="friendliness-pellets idle0000" x="0" y="0" width="14" height="10" frameX="0" frameY="0" frameWidth="14" frameHeight="10" />
+<SubTexture name="friendliness-pellets idle0001" x="14" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="10" frameHeight="10" />
+<SubTexture name="friendliness-pellets idle0002" x="0" y="10" width="10" height="14" frameX="0" frameY="0" frameWidth="10" frameHeight="14" />
+<SubTexture name="friendliness-pellets idle0003" x="10" y="10" width="10" height="10" frameX="0" frameY="0" frameWidth="10" frameHeight="10" />
+<SubTexture name="friendliness-pellets idle0004" x="0" y="24" width="14" height="10" frameX="0" frameY="0" frameWidth="14" frameHeight="10" />
+<SubTexture name="friendliness-pellets idle0005" x="14" y="24" width="10" height="10" frameX="0" frameY="0" frameWidth="10" frameHeight="10" />
+<SubTexture name="friendliness-pellets idle0006" x="0" y="34" width="10" height="14" frameX="0" frameY="0" frameWidth="10" frameHeight="14" />
+<SubTexture name="friendliness-pellets idle0007" x="10" y="34" width="10" height="10" frameX="0" frameY="0" frameWidth="10" frameHeight="10" />
+</TextureAtlas>

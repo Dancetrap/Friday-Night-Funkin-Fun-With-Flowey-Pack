@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf ds death.png">
+<SubTexture name="bf ds death bf death0000" x="0" y="0" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death bf death0001" x="1904" y="0" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death bf death0002" x="3808" y="0" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death bf death0003" x="0" y="1904" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death bf death0004" x="1904" y="1904" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death bf death0005" x="3808" y="1904" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death bf death0006" x="0" y="3808" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death retry?0000" x="1904" y="3808" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death retry?0001" x="3808" y="3808" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death accept0000" x="0" y="5712" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death accept0001" x="1904" y="5712" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="bf ds death idle0000" x="3808" y="5712" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+</TextureAtlas>

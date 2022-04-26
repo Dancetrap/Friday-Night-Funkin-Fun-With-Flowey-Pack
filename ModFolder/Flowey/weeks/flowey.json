@@ -1,0 +1,49 @@
+{
+	"storyName": "Flowey!",
+	"difficulties": "Hard, Crazy",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "free",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bwflowey",
+		""
+	],
+	"songs": [
+		[
+			"New best friend",
+			"flowey",
+			[
+				206,
+				193,
+				53
+			]
+		],
+		[
+			"Kill or be killed",
+			"flowey-mad",
+			[
+				166,
+				153,
+				13
+			]
+		],
+		[
+			"But nobody came",
+			"flowey-omega",
+			[
+				86,
+				73,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Flowey"
+}

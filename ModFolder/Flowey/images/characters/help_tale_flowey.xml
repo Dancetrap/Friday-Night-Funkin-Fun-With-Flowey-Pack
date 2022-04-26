@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="help_tale_flowey.png">
+<SubTexture name="help_tale flowey idle0000" x="0" y="0" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey idle0001" x="508" y="0" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey idle0002" x="1016" y="0" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey idle0003" x="1524" y="0" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey idle0004" x="0" y="508" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey left0000" x="508" y="508" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey left0001" x="1016" y="508" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey left0002" x="1524" y="508" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey down0000" x="0" y="1016" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey down0001" x="508" y="1016" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey down0002" x="1016" y="1016" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey right0000" x="1524" y="1016" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey right0001" x="0" y="1524" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey right0002" x="508" y="1524" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey up0000" x="1016" y="1524" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey up0001" x="1524" y="1524" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+<SubTexture name="help_tale flowey up0002" x="0" y="2032" width="508" height="508" frameX="0" frameY="0" frameWidth="508" frameHeight="508" />
+</TextureAtlas>

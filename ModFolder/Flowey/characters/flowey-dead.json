@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Death START",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				3
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Death AFTER",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				44,
+				19
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Death LOOP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flowe_but_happy_death",
+	"position": [
+		-50,
+		340
+	],
+	"healthicon": "flowey",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

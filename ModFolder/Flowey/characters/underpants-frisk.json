@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "underpants-frisk idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				89
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "underpants-frisk left-fail",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				80
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "underpants-frisk down-fail",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				81
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "underpants-frisk up-fail",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				102
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "underpants-frisk right-fail",
+			"indices": []
+		},
+		{
+			"offsets": [
+				87,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [
+				6,
+				6
+			],
+			"name": "underpants-frisk death-animation"
+		},
+		{
+			"offsets": [
+				87,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [
+				5,
+				5
+			],
+			"name": "underpants-frisk death-animation"
+		},
+		{
+			"offsets": [
+				35,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "underpants-frisk left"
+		},
+		{
+			"offsets": [
+				34,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "underpants-frisk down"
+		},
+		{
+			"offsets": [
+				31,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "underpants-frisk up"
+		},
+		{
+			"offsets": [
+				32,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "underpants-frisk right"
+		},
+		{
+			"offsets": [
+				87,
+				11
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				5,
+				5,
+				5,
+				6,
+				6,
+				6
+			],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "underpants-frisk death-animation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/underpants-frisk",
+	"position": [
+		-750,
+		-450
+	],
+	"healthicon": "underpants-frisk",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-750,
+		590
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

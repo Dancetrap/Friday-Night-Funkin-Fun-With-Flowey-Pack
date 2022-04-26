@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Flowey.png"><SubTexture name="Menu_Flowey idle0000" x="0" y="0" width="229" height="254" frameX="0" frameY="0" frameWidth="229" frameHeight="254" />
+<SubTexture name="Menu_Flowey idle0001" x="229" y="0" width="229" height="254" frameX="0" frameY="0" frameWidth="229" frameHeight="254" />
+<SubTexture name="Menu_Flowey idle0002" x="0" y="254" width="229" height="254" frameX="0" frameY="0" frameWidth="229" frameHeight="254" />
+<SubTexture name="Menu_Flowey idle0003" x="229" y="254" width="229" height="254" frameX="0" frameY="0" frameWidth="229" frameHeight="254" />
+<SubTexture name="Menu_Flowey idle0004" x="0" y="508" width="229" height="254" frameX="0" frameY="0" frameWidth="229" frameHeight="254" />
+<SubTexture name="Menu_Flowey idle0005" x="229" y="508" width="229" height="254" frameX="0" frameY="0" frameWidth="229" frameHeight="254" />
+<SubTexture name="Menu_Flowey idle0006" x="0" y="762" width="229" height="254" frameX="0" frameY="0" frameWidth="229" frameHeight="254" />
+</TextureAtlas>

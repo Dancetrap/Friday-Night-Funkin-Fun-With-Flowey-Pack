@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fillsYouWithFear.png">
+<SubTexture name="start0000" x="0" y="0" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0000" x="1426" y="0" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0001" x="2852" y="0" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0002" x="0" y="804" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0003" x="1426" y="804" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0004" x="2852" y="804" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0005" x="0" y="1608" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0006" x="1426" y="1608" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0007" x="2852" y="1608" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0008" x="0" y="2412" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0009" x="1426" y="2412" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0010" x="2852" y="2412" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+<SubTexture name="fadeIn0011" x="0" y="3216" width="1426" height="804" frameX="0" frameY="0" frameWidth="1426" frameHeight="804" />
+</TextureAtlas>

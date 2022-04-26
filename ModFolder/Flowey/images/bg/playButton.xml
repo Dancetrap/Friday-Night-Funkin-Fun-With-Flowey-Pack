@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="playButton.png">
+<SubTexture name="playButton idle0000" x="0" y="0" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0001" x="439" y="0" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0002" x="878" y="0" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0003" x="1317" y="0" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0004" x="0" y="352" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0005" x="439" y="352" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0006" x="878" y="352" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0007" x="1317" y="352" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0008" x="0" y="704" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0009" x="439" y="704" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0010" x="878" y="704" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0011" x="1317" y="704" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0012" x="0" y="1056" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0013" x="439" y="1056" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0014" x="878" y="1056" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0015" x="1317" y="1056" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0016" x="0" y="1408" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0017" x="439" y="1408" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0018" x="878" y="1408" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+<SubTexture name="playButton idle0019" x="1317" y="1408" width="439" height="352" frameX="0" frameY="0" frameWidth="439" frameHeight="352" />
+</TextureAtlas>

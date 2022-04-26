@@ -1,0 +1,3 @@
+type out the code for a certain song
+value 1 - duration
+Warning! Must only be used once for full effect

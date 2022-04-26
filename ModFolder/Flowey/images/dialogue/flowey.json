@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		50
+	],
+	"scale": 0.249999999999999,
+	"animations": [
+		{
+			"idle_offsets": [
+				500,
+				430
+			],
+			"anim": "idiot",
+			"loop_offsets": [
+				500,
+				430
+			],
+			"idle_name": "Idiot",
+			"loop_name": "Symbol 12"
+		},
+		{
+			"loop_offsets": [
+				450,
+				430
+			],
+			"anim": "howdy",
+			"idle_offsets": [
+				450,
+				430
+			],
+			"loop_name": "Symbol 5",
+			"idle_name": "Howdy"
+		},
+		{
+			"loop_offsets": [
+				450,
+				430
+			],
+			"anim": "what",
+			"idle_offsets": [
+				450,
+				430
+			],
+			"loop_name": "Symbol 7",
+			"idle_name": "What"
+		},
+		{
+			"loop_offsets": [
+				500,
+				430
+			],
+			"anim": "evil",
+			"idle_offsets": [
+				500,
+				430
+			],
+			"loop_name": "Symbol 9",
+			"idle_name": "Evil"
+		}
+	],
+	"image": "Flowey_Dialogue"
+}

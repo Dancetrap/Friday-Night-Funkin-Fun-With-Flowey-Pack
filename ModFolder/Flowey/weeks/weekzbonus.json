@@ -1,0 +1,82 @@
+{
+	"storyName": "Bonus songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Flower dance",
+			"flowey",
+			[
+				206,
+				253,
+				53
+			],
+			false,
+			false
+		],	
+		[
+			"Fear",
+			"horrortale-flowey",
+			[
+				206,
+				253,
+				53
+			],
+			false,
+			false
+		],
+		[
+			"Thank",
+			"thank",
+			[
+				206,
+				253,
+				53
+			],
+			false,
+			false
+		],
+		[
+			"Smiley trashbag",
+			"flowey-mad",
+			[
+				206,
+				253,
+				53
+			]
+		],
+		[
+			"Bad tom",
+			"sanes",
+			[
+				161,
+				161,
+				161
+			]
+		],
+		[
+			"Confronting saness",
+			"sanes",
+			[
+				161,
+				161,
+				161
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bonus"
+}

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Idle",
+	"idle_anim": "Idle",
+	"position": [
+		175,
+		200
+	],
+	"scale": 0.3,
+	"image": "Black_and_White_Flowey"
+}

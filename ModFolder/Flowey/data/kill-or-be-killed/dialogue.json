@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "howdy",
+			"text": "That was fun!",
+			"boxState": "normal",
+			"portrait": "flowey",
+			"speed": 0.05
+		},
+		{
+			"expression": "howdy",
+			"text": "Let's do another one!",
+			"boxState": "normal",
+			"portrait": "flowey",
+			"speed": 0.05
+		},
+		{
+			"expression": "howdy",
+			"text": "And then another and another and...",
+			"boxState": "normal",
+			"portrait": "flowey",
+			"speed": 0.05
+		},
+		{
+			"expression": "howdy",
+			"text": "And...",
+			"boxState": "normal",
+			"portrait": "flowey",
+			"speed": 0.05
+		},
+		{
+			"expression": "howdy",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "howdy",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "I'm sorry, I can't keep on doing this",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "talk",
+			"text": "boop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "idiot",
+			"text": "YOU IDIOT!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "I DON'T WANT TO BE YOUR FRIEND!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "idiot",
+			"text": "Don't you know that in this world...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "It's KILL OR BE KILLED",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "idiot",
+			"text": "HEE HEE HEE!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "evil",
+			"text": "However, since our time is cut short, I want to enjoy the time we have left.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "evil",
+			"text": "Now,",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		},
+		{
+			"expression": "evil",
+			"text": "DIE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flowey"
+		}
+	]
+}

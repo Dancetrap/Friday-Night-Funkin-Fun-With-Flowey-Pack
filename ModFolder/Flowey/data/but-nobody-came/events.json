@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "finalBattle",
+		"player1": "bf-opposite-side",
+		"player2": "omega-true-form",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"10000"
+					]
+				]
+			],
+			[
+				219354.838709678,
+				[
+					[
+						"Fade Camera",
+						"hud",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "blank",
+		"bpm": 93,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "but-nobody-came"
+	}
+}

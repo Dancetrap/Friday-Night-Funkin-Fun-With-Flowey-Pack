@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Idle",
+	"image": "Flowey_Menu",
+	"position": [
+		222,
+		230
+	],
+	"scale": 0.4,
+	"confirm_anim": ""
+}

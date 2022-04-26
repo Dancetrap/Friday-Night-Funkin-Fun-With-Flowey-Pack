@@ -1,0 +1,24 @@
+-- local allowCountdown = false;
+-- function onStartCountdown()
+--     if not allowCountdown and not seenCutscene and getPropertyFromClass('PlayState','deathCounter') > 0 then
+-- 	    if getPropertyFromClass('PlayState','deathCounter') == 1 then
+-- 	    	startVideo('omega/first');
+-- 	    elseif getPropertyFromClass('PlayState','deathCounter') == 2 then
+-- 	    	startVideo('omega/idiot');
+-- 	    elseif getPropertyFromClass('PlayState','deathCounter') == 3 then
+-- 	    	startVideo('omega/funnyjoke');
+-- 	    elseif getPropertyFromClass('PlayState','deathCounter') == 4 then
+-- 	    	startVideo('omega/deseperate');
+-- 	    elseif getPropertyFromClass('PlayState','deathCounter') == 5 then
+-- 	    	startVideo('omega/sad');
+-- 	    elseif getPropertyFromClass('PlayState','deathCounter') == 6 then
+-- 	    	startVideo('omega/justquit');
+-- 	    elseif getPropertyFromClass('PlayState','deathCounter') >= 7 then
+-- 	    	startVideo('omega/better');
+--         end
+
+--         allowCountdown = true;
+-- 		return Function_Stop;
+--     end
+--     return Function_Continue;
+-- end

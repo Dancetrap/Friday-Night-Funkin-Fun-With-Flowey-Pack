@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="horrortale flowey.png"><SubTexture name="horrortale flowey down0000" x="0" y="0" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey down0001" x="1904" y="0" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey down0002" x="3808" y="0" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey idle0000" x="5712" y="0" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey idle0001" x="0" y="1904" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey idle0002" x="1904" y="1904" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey idle0003" x="3808" y="1904" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey left0000" x="5712" y="1904" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey left0001" x="0" y="3808" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey left0002" x="1904" y="3808" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey right0000" x="3808" y="3808" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey right0001" x="5712" y="3808" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey right0002" x="0" y="5712" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey up0000" x="1904" y="5712" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey up0001" x="3808" y="5712" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+<SubTexture name="horrortale flowey up0002" x="5712" y="5712" width="1904" height="1904" frameX="0" frameY="0" frameWidth="1904" frameHeight="1904" />
+</TextureAtlas>

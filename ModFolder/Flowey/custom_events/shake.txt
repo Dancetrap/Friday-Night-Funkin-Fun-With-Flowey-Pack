@@ -1,0 +1,3 @@
+create camera shake
+value 1 - intensity
+value 2 - duration

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_floe_shop.png"><SubTexture name="menu_floe_shop basic0000" x="0" y="0" width="664" height="114" frameX="0" frameY="0" frameWidth="664" frameHeight="114" />
+<SubTexture name="menu_floe_shop white0000" x="0" y="114" width="664" height="114" frameX="0" frameY="0" frameWidth="664" frameHeight="114" />
+</TextureAtlas>

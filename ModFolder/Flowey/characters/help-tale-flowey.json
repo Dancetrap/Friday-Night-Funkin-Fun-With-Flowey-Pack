@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "help_tale flowey left"
+		},
+		{
+			"offsets": [
+				40,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "help_tale flowey down"
+		},
+		{
+			"offsets": [
+				20,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "help_tale flowey up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "help_tale flowey right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "help_tale flowey idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/help_tale flowey",
+	"position": [
+		-690,
+		-460
+	],
+	"healthicon": "thank",
+	"flip_x": false,
+	"healthbar_colors": [
+		117,
+		109,
+		0
+	],
+	"camera_position": [
+		720,
+		950
+	],
+	"sing_duration": 6.1,
+	"scale": 0.2
+}

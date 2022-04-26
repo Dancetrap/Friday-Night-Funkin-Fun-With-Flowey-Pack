@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flowey with no petals.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="302" height="419" frameX="0" frameY="-13" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="302" height="419" frameX="0" frameY="-13" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0002" x="302" y="0" width="303" height="423" frameX="-4" frameY="-9" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0003" x="302" y="0" width="303" height="423" frameX="-4" frameY="-9" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0004" x="605" y="0" width="304" height="424" frameX="-6" frameY="-8" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0005" x="605" y="0" width="304" height="424" frameX="-6" frameY="-8" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0006" x="909" y="0" width="306" height="431" frameX="-8" frameY="-1" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0007" x="909" y="0" width="306" height="431" frameX="-8" frameY="-1" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0008" x="1215" y="0" width="308" height="432" frameX="-10" frameY="0" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0009" x="1215" y="0" width="308" height="432" frameX="-10" frameY="0" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0010" x="1215" y="0" width="308" height="432" frameX="-10" frameY="0" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0011" x="1215" y="0" width="308" height="432" frameX="-10" frameY="0" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0012" x="1215" y="0" width="308" height="432" frameX="-10" frameY="0" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0013" x="1215" y="0" width="308" height="432" frameX="-10" frameY="0" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="Idle0014" x="1215" y="0" width="308" height="432" frameX="-10" frameY="0" frameWidth="318" frameHeight="432"/>
+	<SubTexture name="No petals0000" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0001" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0002" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0003" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0004" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0005" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0006" x="1716" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0007" x="1716" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0008" x="0" y="432" width="194" height="368"/>
+	<SubTexture name="No petals0009" x="0" y="432" width="194" height="368"/>
+	<SubTexture name="No petals0010" x="1716" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0011" x="1716" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0012" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0013" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0014" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0015" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0016" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0017" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0018" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0019" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0020" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0021" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0022" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0023" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0024" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0025" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0026" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0027" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0028" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0029" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0030" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0031" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0032" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0033" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0034" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0035" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0036" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0037" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0038" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0039" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0040" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0041" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0042" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0043" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0044" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0045" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0046" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0047" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0048" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0049" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0050" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0051" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0052" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0053" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0054" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0055" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0056" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0057" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0058" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0059" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0060" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0061" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0062" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0063" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0064" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0065" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0066" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0067" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0068" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0069" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0070" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="No petals0071" x="1523" y="0" width="193" height="368" frameX="-1" frameY="0" frameWidth="194" frameHeight="368"/>
+	<SubTexture name="Sneeze0000" x="194" y="432" width="303" height="430" frameX="-117" frameY="-77" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0001" x="194" y="432" width="303" height="430" frameX="-117" frameY="-77" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0002" x="194" y="432" width="303" height="430" frameX="-117" frameY="-77" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0003" x="194" y="432" width="303" height="430" frameX="-117" frameY="-77" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0004" x="194" y="432" width="303" height="430" frameX="-117" frameY="-77" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0005" x="497" y="432" width="302" height="443" frameX="-120" frameY="-64" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0006" x="799" y="432" width="307" height="412" frameX="-130" frameY="-97" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0007" x="799" y="432" width="307" height="412" frameX="-130" frameY="-97" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0008" x="799" y="432" width="307" height="412" frameX="-130" frameY="-97" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0009" x="799" y="432" width="307" height="412" frameX="-130" frameY="-97" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0010" x="1106" y="432" width="350" height="409" frameX="-102" frameY="-100" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0011" x="1106" y="432" width="350" height="409" frameX="-102" frameY="-100" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0012" x="1456" y="432" width="299" height="473" frameX="-176" frameY="-33" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0013" x="1456" y="432" width="299" height="473" frameX="-176" frameY="-33" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0014" x="1456" y="432" width="299" height="473" frameX="-176" frameY="-33" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0015" x="1456" y="432" width="299" height="473" frameX="-176" frameY="-33" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0016" x="1456" y="432" width="299" height="473" frameX="-176" frameY="-33" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0017" x="1456" y="432" width="299" height="473" frameX="-176" frameY="-33" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0018" x="0" y="905" width="299" height="473" frameX="-176" frameY="-33" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0019" x="299" y="905" width="432" height="467" frameX="-17" frameY="-38" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0020" x="731" y="905" width="487" height="497" frameX="-6" frameY="-8" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0021" x="1218" y="905" width="512" height="505" frameX="0" frameY="0" frameWidth="512" frameHeight="519"/>
+	<SubTexture name="Sneeze0022" x="1730" y="905" width="192" height="368" frameX="-169" frameY="-151" frameWidth="512" frameHeight="519"/>
+</TextureAtlas>

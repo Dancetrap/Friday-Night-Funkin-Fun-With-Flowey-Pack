@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-200
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Game Over",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-200
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Game Over",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sands_dead",
+	"position": [
+		-230,
+		-540
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		500
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

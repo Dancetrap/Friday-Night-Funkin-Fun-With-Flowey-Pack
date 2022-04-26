@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "helptale",
+		"player1": "mic-hand",
+		"player2": "help-tale-flowey",
+		"player3": null,
+		"events": [
+			[
+				45000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.6",
+						"1"
+					]
+				]
+			],
+			[
+				54450,
+				[
+					[
+						"Type Message",
+						"500",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "blank",
+		"bpm": 100,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "thank"
+	}
+}

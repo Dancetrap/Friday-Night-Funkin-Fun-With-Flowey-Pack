@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FLOE.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 2 instance 10000" x="0" y="0" width="708" height="890" frameX="0" frameY="-63" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10001" x="0" y="0" width="708" height="890" frameX="0" frameY="-63" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10002" x="708" y="0" width="668" height="930" frameX="-40" frameY="-23" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10003" x="708" y="0" width="668" height="930" frameX="-40" frameY="-23" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10004" x="1376" y="0" width="668" height="953" frameX="-40" frameY="0" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10005" x="1376" y="0" width="668" height="953" frameX="-40" frameY="0" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10006" x="2044" y="0" width="668" height="953" frameX="-40" frameY="0" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10007" x="2044" y="0" width="668" height="953" frameX="-40" frameY="0" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10008" x="2712" y="0" width="668" height="882" frameX="-40" frameY="-71" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10009" x="2712" y="0" width="668" height="882" frameX="-40" frameY="-71" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10010" x="3380" y="0" width="668" height="926" frameX="-40" frameY="-27" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10011" x="3380" y="0" width="668" height="926" frameX="-40" frameY="-27" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10012" x="0" y="953" width="668" height="945" frameX="-40" frameY="-8" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10013" x="0" y="953" width="668" height="945" frameX="-40" frameY="-8" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10014" x="668" y="953" width="668" height="945" frameX="-40" frameY="-8" frameWidth="708" frameHeight="953"/>
+	<SubTexture name="Symbol 2 instance 10015" x="668" y="953" width="668" height="945" frameX="-40" frameY="-8" frameWidth="708" frameHeight="953"/>
+</TextureAtlas>
