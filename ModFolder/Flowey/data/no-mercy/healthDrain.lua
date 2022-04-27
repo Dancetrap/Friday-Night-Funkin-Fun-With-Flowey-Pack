@@ -32,6 +32,7 @@ function onCreate()
    makeLuaSprite('dead', 'bg/floweyDead', -75, -40);
    setScrollFactor('dead', 0, 0);
    scaleObject('dead', 1.125, 1.125);
+   setObjectCamera('dead','hud');
 
    -- makeLuaSprite('light', 'bg/flashlight', -75, -40);
    -- setScrollFactor('light', 0, 0);

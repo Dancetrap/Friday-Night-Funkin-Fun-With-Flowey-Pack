@@ -105,6 +105,8 @@ if not allowEnd and not seenCutscene and isStoryMode then
 			setProperty('comboSpr.alpha', tonumber(0))
 			setProperty('ranking.alpha', tonumber(0))
 			setProperty('numScore.alpha', tonumber(0))
+		else
+			setProperty('inCutscene', false);
 		end
 
 		allowEnd = true;

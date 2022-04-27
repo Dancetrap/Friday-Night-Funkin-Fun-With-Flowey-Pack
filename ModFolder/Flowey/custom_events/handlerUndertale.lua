@@ -1442,6 +1442,7 @@ function onEvent(name, value1, value2)
 
 			-- bullSpawn('blaster', bx, by, 0, 0, 1, pa, 0.6);
 			floweySpawn('vineattack', bx, by, 0, 0, 1, pa, 0.6);
+			-- floweySpawn('warningline', bx, by, 0, 0, 0, pa, 0.6);
 			triggerEvent('Screen Shake', '0.2,0.005', '0.2,0.005');
 			-- makeLuaSprite('b'..i, 'ut/bullets/blasterOpen', bx, by);
 	end

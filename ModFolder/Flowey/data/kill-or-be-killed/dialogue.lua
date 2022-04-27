@@ -3,6 +3,7 @@ function onStartCountdown()
 	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
 	if not allowCountdown and isStoryMode and not seenCutscene then
 		setProperty('inCutscene', true);
+		triggerEvent('Change Character','dad','flowey');
 		runTimer('startDialogue', 0.8);
 		allowCountdown = true;
 		return Function_Stop;
@@ -12,8 +13,8 @@ end
 
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
-		startDialogue('dialogue', '');
-		triggerEvent('Change Character','dad','flowey');
+		startDialogue('dialogue', 'floweytheme');
+		
 	end
 end
 
@@ -23,7 +24,7 @@ function onNextDialogue(count)
 	if(count == 9) then
 		triggerEvent('Change Character','dad','flowey-evil');
 	elseif(count==0) then
-		playMusic('floweytheme',0,true);
+		-- playMusic('floweytheme',0,true);
 	elseif(count==6)then
 		playMusic('',0,true);
 	end
