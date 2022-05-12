@@ -603,7 +603,7 @@ class TitleState extends MusicBeatState
 					createCoolText(['Dancetrap'], 15);
 					#else
 					// createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
-					createCoolText(['Dancetrap', 'ROBO', 'doock', 'and friends']);
+					createCoolText(['Dancetrap', 'Shadow Man', 'doock', 'and friends']);
 					#end
 				// credTextShit.visible = true;
 				case 3:

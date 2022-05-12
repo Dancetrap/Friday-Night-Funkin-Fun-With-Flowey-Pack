@@ -720,10 +720,10 @@ class WeekEditorFreeplayState extends MusicBeatState
 		tab_group.add(new FlxText(10, bgColorStepperR.y - 18, 0, 'Selected background Color R/G/B:'));
 		tab_group.add(new FlxText(10, iconInputText.y - 18, 0, 'Selected icon:'));
 		tab_group.add(new FlxText(120, freeplayInputText.y - 18, 0, 'Freeplay mode:'));
-		tab_group.add(new FlxText(120, freeplayInputText.y + 18, 0, 'Codes'));
-		tab_group.add(new FlxText(120, freeplayInputText.y + 36, 0, 'week = Story Mode Songs'));
-		tab_group.add(new FlxText(120, freeplayInputText.y + 72, 0, 'week = Story Mode Songs'));
-		tab_group.add(new FlxText(120, freeplayInputText.y + 72, 0, 'week = Story Mode Songs'));
+		tab_group.add(new FlxText(120, freeplayInputText.y + 18, 0, 'Codes:'));
+		tab_group.add(new FlxText(120, freeplayInputText.y + 30, 0, 'week: Story Mode Songs'));
+		tab_group.add(new FlxText(120, freeplayInputText.y + 40, 0, 'bonus: Secret Songs'));
+		tab_group.add(new FlxText(120, freeplayInputText.y + 50, 0, 'store: Store Songs'));
 		tab_group.add(bgColorStepperR);
 		tab_group.add(bgColorStepperG);
 		tab_group.add(bgColorStepperB);
