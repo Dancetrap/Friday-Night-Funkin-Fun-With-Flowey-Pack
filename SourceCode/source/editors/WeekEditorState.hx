@@ -660,6 +660,7 @@ class WeekEditorFreeplayState extends MusicBeatState
 	override function getEvent(id:String, sender:Dynamic, data:Dynamic, ?params:Array<Dynamic>) {
 		if(id == FlxUIInputText.CHANGE_EVENT && (sender is FlxUIInputText)) {
 			weekFile.songs[curSelected][1] = iconInputText.text;
+			weekFile.songs[curSelected][3] = freeplayInputText.text;
 			iconArray[curSelected].changeIcon(iconInputText.text);
 		} else if(id == FlxUINumericStepper.CHANGE_EVENT && (sender is FlxUINumericStepper)) {
 			if(sender == bgColorStepperR || sender == bgColorStepperG || sender == bgColorStepperB) {
@@ -672,6 +673,7 @@ class WeekEditorFreeplayState extends MusicBeatState
 	var bgColorStepperG:FlxUINumericStepper;
 	var bgColorStepperB:FlxUINumericStepper;
 	var iconInputText:FlxUIInputText;
+	var freeplayInputText:FlxUIInputText;
 	function addFreeplayUI() {
 		var tab_group = new FlxUI(null, UI_box);
 		tab_group.name = "Freeplay";
@@ -706,6 +708,7 @@ class WeekEditorFreeplayState extends MusicBeatState
 		});
 
 		iconInputText = new FlxUIInputText(10, bgColorStepperR.y + 70, 100, '', 8);
+		freeplayInputText = new FlxUIInputText(120, bgColorStepperR.y + 70, 100, '', 8);
 
 		var hideFreeplayCheckbox:FlxUICheckBox = new FlxUICheckBox(10, iconInputText.y + 30, null, null, "Hide Week from Freeplay?", 100);
 		hideFreeplayCheckbox.checked = weekFile.hideFreeplay;
@@ -716,12 +719,18 @@ class WeekEditorFreeplayState extends MusicBeatState
 		
 		tab_group.add(new FlxText(10, bgColorStepperR.y - 18, 0, 'Selected background Color R/G/B:'));
 		tab_group.add(new FlxText(10, iconInputText.y - 18, 0, 'Selected icon:'));
+		tab_group.add(new FlxText(120, freeplayInputText.y - 18, 0, 'Freeplay mode:'));
+		tab_group.add(new FlxText(120, freeplayInputText.y + 18, 0, 'Codes'));
+		tab_group.add(new FlxText(120, freeplayInputText.y + 36, 0, 'week = Story Mode Songs'));
+		tab_group.add(new FlxText(120, freeplayInputText.y + 72, 0, 'week = Story Mode Songs'));
+		tab_group.add(new FlxText(120, freeplayInputText.y + 72, 0, 'week = Story Mode Songs'));
 		tab_group.add(bgColorStepperR);
 		tab_group.add(bgColorStepperG);
 		tab_group.add(bgColorStepperB);
 		tab_group.add(copyColor);
 		tab_group.add(pasteColor);
 		tab_group.add(iconInputText);
+		tab_group.add(freeplayInputText);
 		tab_group.add(hideFreeplayCheckbox);
 		UI_box.addGroup(tab_group);
 	}
@@ -770,6 +779,7 @@ class WeekEditorFreeplayState extends MusicBeatState
 		bgColorStepperR.value = Math.round(weekFile.songs[curSelected][2][0]);
 		bgColorStepperG.value = Math.round(weekFile.songs[curSelected][2][1]);
 		bgColorStepperB.value = Math.round(weekFile.songs[curSelected][2][2]);
+		freeplayInputText.text = weekFile.songs[curSelected][3];
 		updateBG();
 	}
 
@@ -783,12 +793,13 @@ class WeekEditorFreeplayState extends MusicBeatState
 			return;
 		}
 		
-		if(iconInputText.hasFocus) {
+		if(iconInputText.hasFocus || freeplayInputText.hasFocus){
 			FlxG.sound.muteKeys = [];
 			FlxG.sound.volumeDownKeys = [];
 			FlxG.sound.volumeUpKeys = [];
 			if(FlxG.keys.justPressed.ENTER) {
 				iconInputText.hasFocus = false;
+				freeplayInputText.hasFocus = false;
 			}
 		} else {
 			FlxG.sound.muteKeys = TitleState.muteKeys;
